@@ -1,0 +1,7 @@
+PyAutoGUI
+gym==0.7.4
+torch
+opencv-python
+torchvision
+matplotlib
+Pillow
