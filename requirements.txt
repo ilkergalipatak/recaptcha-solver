@@ -4,4 +4,4 @@ torch
 opencv-python
 torchvision
 matplotlib
-Pillow
+Pillo
